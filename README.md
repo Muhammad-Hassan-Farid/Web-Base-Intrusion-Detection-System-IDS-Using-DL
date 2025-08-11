@@ -20,11 +20,7 @@ git clone https://github.com/your-username/Web-Base-Intrusion-Detection-System-I
 pip install -r requirements.txt
 ```
 
-## Usage
-Here is an example of how to use this system:
-```python
-# Add usage example here
-```
+
 
 ## Dependencies
 - No external dependencies required
